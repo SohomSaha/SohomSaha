@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SohomSaha
 - 👀 I’m interested in java,android development and web development.
-- 🌱 I’m currently learning java and android development.
+- 🌱 I’m currently learning dsa and web development.
 - 📫 How to reach me :- My gmail is sahasoham768@gmail.com.
 
 <!---
